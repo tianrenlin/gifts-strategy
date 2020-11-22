@@ -1,0 +1,26 @@
+{
+  "pages": [
+    "pages/index/main",
+    "pages/search/main",
+    "pages/detail/main",
+    "pages/ways/main",
+    "pages/seletion/main",
+    "pages/community/main",
+    "pages/user/main"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#D92B51",
+    "navigationBarTextStyle": "white"
+  },
+  "usingComponents": {
+    "van-loading": "/static/vant/dist/loading/index",
+    "van-button": "/static/vant/dist/button/index",
+    "van-popup": "/static/vant/dist/popup/index",
+    "van-action-sheet": "/static/vant/dist/action-sheet/index",
+    "van-icon": "/static/vant/dist/icon/index",
+    "van-goods-action": "/static/vant/dist/goods-action/index",
+    "van-goods-action-button": "/static/vant/dist/goods-action-button/index"
+  },
+  "sitemapLocation": "sitemap.json"
+}

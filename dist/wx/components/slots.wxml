@@ -1,0 +1,9 @@
+<import src="/components/header.vue.wxml" /><import src="/components/community.vue.wxml" />
+<import src="/components/header.vue.wxml" /><import src="/components/tag.vue.wxml" /><import src="/components/experience.vue.wxml" /><import src="/components/weeks.vue.wxml" /><import src="/components/weeksCard.vue.wxml" /><import src="/components/recommend.vue.wxml" /><import src="/components/community.vue.wxml" /><import src="/components/more.vue.wxml" /><import src="/components/actionSheet.vue.wxml" /><import src="/components/rankSheet.vue.wxml" />
+<import src="/components/detailExp.vue.wxml" /><import src="/components/detailCom.vue.wxml" /><import src="/components/detailRec.vue.wxml" />
+<import src="/components/experience.vue.wxml" /><import src="/components/more.vue.wxml" /><import src="/components/recommend.vue.wxml" /><import src="/components/actionSheet.vue.wxml" />
+<import src="/components/header.vue.wxml" /><import src="/components/recommend.vue.wxml" />
+
+<import src="/components/header.vue.wxml" /><import src="/components/experience.vue.wxml" />
+<import src="/components/weeks.vue.wxml" />
+<import src="/components/tag.vue.wxml" /><import src="/components/experience.vue.wxml" /><import src="/components/community.vue.wxml" /><import src="/components/recommend.vue.wxml" />

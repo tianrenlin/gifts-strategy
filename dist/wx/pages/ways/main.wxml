@@ -1,0 +1,1 @@
+<import src="/pages/ways/ways.vue.wxml" /><template is="18d5638e" data="{{ ...$root['0'], $root }}"/>

@@ -1,0 +1,1 @@
+<template name="ec8a1022"><view class="_div data-v-7435bae4 tag"><view class="_h1 data-v-7435bae4">{{tagData.title}}</view> <view class="_p data-v-7435bae4">{{tagData.tag}}</view></view></template>

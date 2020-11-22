@@ -1,0 +1,2 @@
+@import "../../common/vendor.wxss";
+.index.data-v-82d45aca{position:relative;background:#f7f5f5}.index .card_list.data-v-82d45aca{padding:0 30rpx;transform:translateY(-290rpx)}.index .loading.data-v-82d45aca{width:100%;height:auto;margin:16rpx auto;display:flex;justify-content:center;align-items:center}

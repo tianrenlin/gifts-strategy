@@ -1,0 +1,3 @@
+<template name="612fa194"><view class="_div data-v-3b79a073 weeks"><scroll-view scroll-x="true" style="width: 100%" class="_scroll-view data-v-3b79a073 scroll"><view class="_div data-v-3b79a073 weeks_list"><view bindtap="handleProxy" wx:key="i" key="{{i}}" data-eventid="{{'0_'+i}}" data-comkey="{{$k}}" wx:for="{{dataList}}" wx:for-index="i" wx:for-item="item" class="_div data-v-3b79a073 {{actived == i ? 'actived' : ''}}">
+        {{ item.name }}
+      </view></view></scroll-view></view></template>
