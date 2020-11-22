@@ -1,37 +1,8 @@
-# 礼物攻略说
+## 仿礼物说
 
-> mpVue liwushuo
+## 已打包的文件在dist中，放到微信开发工具中就可以运行。
 
-## Build Setup
++  使用mpvue + vant weapp + vuex开发，less编写样式。
 
-``` bash
-# 初始化项目
-npm install
-cd myproject
++ 该仓库是从[gtiee导入的](https://gitee.com/tilin/present)
 
-# 安装依赖
-npm
-
-# 开发时构建
-npm dev
-
-# 打包构建
-npm build
-
-# 指定平台的开发时构建(微信、百度、头条、支付宝)
-npm dev:wx
-npm dev:swan
-npm dev:tt
-npm dev:my
-
-# 指定平台的打包构建
-npm build:wx
-npm build:swan
-npm build:tt
-npm build:my
-
-# 生成 bundle 分析报告
-npm run build --report
-```
-
-For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
