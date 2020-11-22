@@ -20,7 +20,7 @@
 ![输入图片说明](https://images.gitee.com/uploads/images/2020/1122/193826_e7dc9c4f_2084888.png "7.png")
 ![输入图片说明](https://images.gitee.com/uploads/images/2020/1122/193833_646cdcc9_2084888.png "8.png")
 ![输入图片说明](https://images.gitee.com/uploads/images/2020/1122/193840_f6d9bf19_2084888.png "9.png")
-## 图片不可见时点击以下图片链接或者到[itee去看](https://gitee.com/tilin/present)
+## 图片不可见时点击以下图片链接或者到[gitee去看](https://gitee.com/tilin/present)
 https://images.gitee.com/uploads/images/2020/1122/193743_36794c78_2084888.png
 https://images.gitee.com/uploads/images/2020/1122/193754_0dad88ea_2084888.png
 https://images.gitee.com/uploads/images/2020/1122/193805_b7188724_2084888.png
